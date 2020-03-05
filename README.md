@@ -26,8 +26,12 @@ https://www.eurosai.org/en/databases/audits/index.html
 3. Dashboard website to present it
 
 ## Screenshot
-![Main View](https://github.com/aperigord/we12/tree/master/Screenshot/main_view.png)
-![Map View](https://github.com/aperigord/we12/tree/master/Screenshot/map_view.png)
-![Country Treemap](https://github.com/aperigord/we12/tree/master/Screenshot/country_treemap.png)
-![Subjects Treemap](https://github.com/aperigord/we12/tree/master/Screenshot/subject_treemap.png)
-![Timelapse View](https://github.com/aperigord/we12/tree/master/Screenshot/timelapse_view.png)
+![Main View](https://github.com/aperigord/we12/blob/master/Screenshot/main_view.PNG)
+
+![Map View](https://github.com/aperigord/we12/blob/master/Screenshot/map_view.PNG)
+
+![Country Treemap](https://github.com/aperigord/we12/blob/master/Screenshot/country_treemap.PNG)
+
+![Subjects Treemap](https://github.com/aperigord/we12/blob/master/Screenshot/subject_treemap.PNG)
+
+![Timelapse View](https://github.com/aperigord/we12/blob/master/Screenshot/timelapse_view.PNG)
