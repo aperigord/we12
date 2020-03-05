@@ -24,3 +24,10 @@ https://www.eurosai.org/en/databases/audits/index.html
 1. Scrapped data from the EUROSAI site with the following data for each reports : title, subject(s), year of publishing, country/countries, link to the EUROSAI report page
 2. Visualization tools used : Flourish (free version)
 3. Dashboard website to present it
+
+## Screenshot
+![Main View](https://github.com/aperigord/we12/tree/master/Screenshot/main_view.png)
+![Map View](https://github.com/aperigord/we12/tree/master/Screenshot/map_view.png)
+![Country Treemap](https://github.com/aperigord/we12/tree/master/Screenshot/country_treemap.png)
+![Subjects Treemap](https://github.com/aperigord/we12/tree/master/Screenshot/subject_treemap.png)
+![Timelapse View](https://github.com/aperigord/we12/tree/master/Screenshot/timelapse_view.png)
