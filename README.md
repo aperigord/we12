@@ -26,12 +26,23 @@ https://www.eurosai.org/en/databases/audits/index.html
 3. Dashboard website to present it
 
 ## Screenshot
+This is the main view of the app when you launch it. 
+
 ![Main View](https://github.com/aperigord/we12/blob/master/Screenshot/main_view.PNG)
+
+You can have a view of the activity of all countries in EuroSAI
 
 ![Map View](https://github.com/aperigord/we12/blob/master/Screenshot/map_view.PNG)
 
+We tried to show how reports are split amongst countries and themes. If you click on it, you are redirected to the reports themselves on the EuroSAI website
+
 ![Country Treemap](https://github.com/aperigord/we12/blob/master/Screenshot/country_treemap.PNG)
 
+
+Another approach for an auditor would be to look at a specific subject to see what has been published.
+
 ![Subjects Treemap](https://github.com/aperigord/we12/blob/master/Screenshot/subject_treemap.PNG)
+
+EuroSAI is quite new in publishing reports, so this is a timelapse
 
 ![Timelapse View](https://github.com/aperigord/we12/blob/master/Screenshot/timelapse_view.PNG)
